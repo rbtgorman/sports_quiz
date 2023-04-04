@@ -10,3 +10,18 @@ User will answer the 8 questions, upon answering the last question, their result
 After completion of the quiz, user can start the quiz again or go 'home'.
 ![image](https://user-images.githubusercontent.com/54149803/229609324-47696ec4-0e7c-4ee0-8848-4b39be76efc3.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Additionally, there is an 'Admin Panel' which can be accessed by a password that I have set. 
+![image](https://user-images.githubusercontent.com/54149803/229830083-c4bcbc50-81e9-49a5-a4b2-90445f635ec2.png)
+
+In the Admin Panel, you can add a question as seen below.
+![image](https://user-images.githubusercontent.com/54149803/229830300-884747c3-fcb6-4bcd-a7b0-4db910b88b5c.png)
+
+You can view all the questions and correct answers.
+![image](https://user-images.githubusercontent.com/54149803/229830580-6a963c79-8122-465c-973d-d21e04a26199.png)
+
+
+
+
+
