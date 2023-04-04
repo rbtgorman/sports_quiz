@@ -5,20 +5,15 @@ if (isset($_SESSION['admin'])) {
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>PHP-Kuiz</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<link rel="stylesheet" type="text/css" href="css/style1.css">
+		<title></title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css">
 	</head>
 
 	<body>
 		<header>
 			<div class="container">
-				<h1>PHP-Kuiz</h1>
-				<a href="index.php" class="start">Home</a>
-				<a href="add.php" class="start">Add Question</a>
-				<a href="allquestions.php" class="start">All Questions</a>
-				<a href="players.php" class="start">Players</a>
-				<a href="exit.php" class="start">Logout</a>
+				<h1>Sports QUIZ BY RDG83</h1>
+				
 				
 	<nav class="navbar navbar-expand-lg navbar-light bg-danger ">
   				<a class="navbar-brand" href="#">RDG83</a>
@@ -41,7 +36,7 @@ if (isset($_SESSION['admin'])) {
 		
 	<h1> All Players</h1>
 	<table class="data-table">
-		<caption class="title">All kuiz players</caption>
+		<caption class="title">All Quiz Participants</caption>
 		<thead>
 			<tr>
 			<th>Player Id</th>
