@@ -16,10 +16,14 @@ Additionally, there is an 'Admin Panel' which can be accessed by a password that
 ![image](https://user-images.githubusercontent.com/54149803/229830083-c4bcbc50-81e9-49a5-a4b2-90445f635ec2.png)
 
 In the Admin Panel, you can add a question as seen below.
-![image](https://user-images.githubusercontent.com/54149803/229830300-884747c3-fcb6-4bcd-a7b0-4db910b88b5c.png)
+![image](https://user-images.githubusercontent.com/54149803/229832078-8dcfb560-fbaa-4e3c-bf80-33405a3a63d4.png)
 
-You can view all the questions and correct answers.
+Admin can view all the questions and correct answers.
 ![image](https://user-images.githubusercontent.com/54149803/229830580-6a963c79-8122-465c-973d-d21e04a26199.png)
+
+Admin can also view the users who have played the quiz.
+![image](https://user-images.githubusercontent.com/54149803/229832625-dcc4339e-29b8-4f33-81be-e60611dbafc8.png)
+
 
 
 
