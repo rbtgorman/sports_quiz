@@ -6,7 +6,7 @@ if (isset($_SESSION['admin'])) {
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>PHP-Kuiz</title>
+		<title>Sports Quiz By RDG83</title>
 		<!-- <link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/style1.css"> -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css">
@@ -16,7 +16,7 @@ if (isset($_SESSION['admin'])) {
 	<body>
 		<header>
 			<div class="container">
-				<h1>PHP QUIZ BY RDG83</h1>
+				<h1>Sports Quiz By RDG83</h1>
 				<!-- <a href="index.php" class="start">Home</a>
 				<a href="add.php" class="start">Add Question</a>
 				<a href="allquestions.php" class="start">All Questions</a>
