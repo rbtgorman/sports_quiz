@@ -23,14 +23,14 @@ if (isset($_POST['password']))  {
 
 <html>
 	<head>
-		<title>Sports QUIZ BY RDG83</title>
+		<title>Sports Quiz By RDG83</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css">
 	</head>
 
 	<body>
 		<header>
 			<div class="container">
-				<h1>Sports QUIZ BY RDG83</h1>
+				<h1>Sports Quiz By RDG83</h1>
 				<!-- <a href="index.php" class="start">Home</a> -->
 <nav class="navbar navbar-expand-lg navbar-light bg-danger ">
 <a class="navbar-brand" href="#">RDG83</a>
