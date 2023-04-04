@@ -19,7 +19,7 @@ In the Admin Panel, you can add a question as seen below.
 ![image](https://user-images.githubusercontent.com/54149803/229832078-8dcfb560-fbaa-4e3c-bf80-33405a3a63d4.png)
 
 Admin can view all the questions and correct answers.
-![image](https://user-images.githubusercontent.com/54149803/229830580-6a963c79-8122-465c-973d-d21e04a26199.png)
+![image](https://user-images.githubusercontent.com/54149803/229836350-730d8bbd-4c8c-453a-9ac6-7931d938cb1a.png)
 
 Admin can also view the users who have played the quiz.
 ![image](https://user-images.githubusercontent.com/54149803/229832625-dcc4339e-29b8-4f33-81be-e60611dbafc8.png)
